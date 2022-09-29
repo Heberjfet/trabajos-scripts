@@ -1,7 +1,7 @@
 ##programa : script-125
 #programador : Heber Jafet Alvaro Ramirez
 #descripcion:
-#fecha: 28/09/2002
+#fecha: 28/09/2022
 
 print('ciclo whlie')
 x = int(input('ciclo'))
