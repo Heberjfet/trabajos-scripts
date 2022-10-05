@@ -9,3 +9,4 @@ while (i <= n):
     s += i
     i += 1
 print('resultado:', s)
+print(i)
