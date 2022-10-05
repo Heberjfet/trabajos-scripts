@@ -5,7 +5,7 @@
 n = int(input('valor: '))
 c = 0
 numero = 0
-while n > 0:
+while c > 0:
   numero = n // 10
   c += 1
 
