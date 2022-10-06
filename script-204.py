@@ -20,3 +20,4 @@ for r in i <= n1 / 2:
     r = ('no son amigos')
     r = ('son amigos')
 print (r)
+
