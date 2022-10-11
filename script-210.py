@@ -7,17 +7,23 @@ def suma():
 
 
 def resta():
-    numA = int(input('ingrese dato'))
+    numA = int(input('ingrese dato: '))
     numB = int(input('ingrese dato: '))
     res = numA - numB
     print('el resultado es: ',res)
 
 
 def multiplicacion():
-    numA = int(('ingrese dato: '))
-    numB = int(('ingrese dato: '))
+    numA = int(input('ingrese dato: '))
+    numB = int(input('ingrese dato: '))
     mult = numA * numB
     print('el resultado es: ',mult)
+
+def divicion():
+    numA = int(input('ingrese el valor: '))
+    numB = int(input('ingrese el valor: '))
+    div = numA / numB
+    print('el resultado es: ',div)
 
 print("""
 s = suma
@@ -29,5 +35,9 @@ selec = input('seleccione la opereacion a reaalizar: ')
 
 if selec == 's':
     suma()
-else selec == 'r':
+elif selec == 'r':
     resta()
+elif selec == 'm':
+    multiplicacion()
+elif selec == 'd':
+    divicion()
