@@ -6,6 +6,14 @@ def suma():
     print (sum)
     suma()
 
+def resta():
+    numA = input('ingrese dato')
+    numB = input('ingrese dato: ')
+    res = numA - numB
+    print(res)
+    resta()
+
+
 print("""
 s = suma
 r = resta
