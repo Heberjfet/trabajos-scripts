@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! yo soy Heber Jafet</h1>
+<h1 align="center">¡Hola! soy Heber Jafet</h1>
 <h3 align="center">este perfil es para guardar scripts de la escuela</h3>
 
 - 🌱 actualmente estoy aprendiendo **Python sin fronteras**
