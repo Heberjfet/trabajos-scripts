@@ -13,5 +13,5 @@ m = multiplicacion
 d = divicion
 """)
 selec = input('seleccione la opereacion a reaalizar: ')
-if selec == s:
+if selec == 's':
     suma()
