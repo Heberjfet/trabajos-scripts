@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! yo soy Heber Jafet</h1>
-<h3 align="center">este perfil para guardar scripts de la escuela</h3>
+<h3 align="center">este perfil es para guardar scripts de la escuela</h3>
 
-- 🌱 I’m currently learning **Python sin fronteras**
+- 🌱 actualmente estoy aprendiendo **Python sin fronteras**
 
-- 📫 How to reach me **heberdiafet@gmail.com**
+- 📫 como contactarme **heberdiafet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
