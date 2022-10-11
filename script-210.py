@@ -13,6 +13,14 @@ def resta():
     print(res)
     resta()
 
+def multiplicacion():
+    numA = ('ingrese dato: ')
+    numB = ('ingrese dato: ')
+    mult = numA * numB
+    print(mult)
+    multiplicacion()
+
+
 
 print("""
 s = suma
