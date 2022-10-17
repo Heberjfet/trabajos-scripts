@@ -7,9 +7,15 @@
 print('calculador de año biciestos')
 
 info =int(input('ingrese el año:'))
-ex=0
+datos=()
+cero=1
 while info == 0:
-    input('ingrese el año')
+    # año=int(input('ingrese año:'))
+    datos =list(datos)
+    datos.append(info)
+    print(datos)
+    if datos == 0:
+        break
 
 def años():
     if años % 4 == 0:
