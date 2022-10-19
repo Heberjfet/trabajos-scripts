@@ -1,3 +1,7 @@
+#programa: script-213
+#programador: Heber Jafet Alvaro Ramirez
+#decripcion: actividad
+#fecha: 16/10/2022
 def saludar(*nombres):
   for n in nombres:
     print(n)
