@@ -19,12 +19,3 @@ while datos != 0:
         print('no es un año biciesto')
     # print(datos)
     
-
-
-# def años():
-#     # if datos % 4 == 0:
-#     if datos % 4 == 0 and (datos % 100 != 0 or datos % 400 == 0):
-#         print('es aun año biciesto')
-#     else:
-#         print('no es un año biciesto')
-
