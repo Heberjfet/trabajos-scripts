@@ -4,7 +4,7 @@
 #decripcion: años viciestos
 #fecha: 16/10/2022
 
-print('calculador de año biciestos')
+print('calculador de año biciestos\n 0 = salir')
 
 datos=[]
 while datos != 0:
