@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.zulu
     pkgs.python38Full
   ];
   env = {
