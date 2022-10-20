@@ -5,7 +5,7 @@
 
 
 def numeros_primos(numero):
-  for i in range(1, int(numero / 2)):
+  for i in range(1, int(numero / 2)): 
     if (numero % i) == 0:
       print(i, 'es primo')
     else:
