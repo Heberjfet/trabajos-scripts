@@ -2,29 +2,39 @@
 #programador: Heber Jafet Alvaro Ramirez
 #decripcion: matrices
 #fecha: 19/10
-print('matris 1')
+
+import string
+
+
 dato = []
 dato2 = []
 resultado = []
-for f in range(3):
-  dato.append([])
-  dato2.append([])
-  resultado.append([])
-for f in range(3):
-  for c in range(3):
-    print('intrudece el valor de:[ ', f, ",", c, "] el cierre de corchete")
+fila=int(input('numero de filas: '))
+columa= int(input('numero de columnas: '))
+for f in range(fila):
+    dato.append([]*columa)
+    dato2.append([]*columa)
+    resultado.append([]*columa)
+  
+  
+
+print('matriz 1')
+for f in range(fila):
+  for c in range(columa):
+    print('intrudece el valor de:[ ', f, ",", c, "]")
     dato[f].append(int(input()))
 print(dato)
-print('matris 2')
-for f in range(3):
-  for c in range(3):
-    print('intrudece el valor de:[ ', f, ",", c, "] el cierre de corchete")
+
+print('matriz 2')
+for f in range(fila):
+  for c in range(columa):
+    print('intrudece el valor de:[ ', f, ",", c, "]")
     dato2[f].append(int(input()))
 print(dato2)
 
 
-
-
-for s in range(0,0):
-  sum(dato,dato2)
-  print(s)
+print('el resultado es:')
+for f in range(fila):
+  for c in range(columa):
+    resultado=dato[f][c]+dato2[f][c]
+    print(dato[f][c],dato2[f][c],resultado)
