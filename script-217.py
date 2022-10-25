@@ -24,16 +24,20 @@ def usuario(dato):
 def contraseña(dato1):
     conta = len(dato1)
     conpro = dato1.isalpha()
+    caracter = dato1.isalnum()
     mayusculas = dato1.islower()
     num = dato1.isdigit()
     if conta < 8:
         print('anañade mas caracteres')
-    elif conpro == True :
-        print('añade un numero')
-    elif mayusculas != False:
-        print('añade una letra mayuscula')
     elif num == True:
         print('añade letras y numeros')
+    elif conpro == True :
+        print('añade un numero')
+    elif caracter == True:
+        print('añade un caracter ejemp:@,!,%...')
+    elif mayusculas != False:
+        print('añade una letra mayuscula')
+    
     
 
 
