@@ -1,4 +1,7 @@
-#prueba
+#programador:heber jafet alvaro ramirez
+#script: script 210
+#detalle: calculador de operaciones aritmeticas 
+#fecha: 12/10/2022
 def suma():
     nunA = int(input('ingrese dato: '))
     numB = int(input('ingrese dato: '))

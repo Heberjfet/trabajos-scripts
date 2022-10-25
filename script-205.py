@@ -3,9 +3,6 @@
 #decripcion:
 #fecha: 05/10/2022
 
-from multiprocessing import Value
-
-
 rI = int(input('ingrese el rango inicial: '))
 rF = int(input('ingrese el rango final: '))
 repo = []
