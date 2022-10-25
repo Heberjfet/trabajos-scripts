@@ -20,12 +20,7 @@ for i in range (1,n2):
         list_divisores2.append(i)
         suma2=sum(list_divisores2)
 
-if suma1==n2 and suma2==n1:
+if suma1 == n2 and suma2 == n1:
     print('Son amigos')
 else:
     print('No son amigos') 
-#list-divisores.append(t), es para sumar los elemntos de la lista
-#Para append se usa parentesis
-#Mod (%) son para el residuo de las divisiones
-#sum, para sumar
-#Las variables t, i, seran almacenedores de los rangos

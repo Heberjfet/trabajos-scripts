@@ -5,12 +5,12 @@
 
 def mensaje(): #Funciones: Son un procedimiento espesifico, invocar muchas veces y reduce el espacio del programa
     print('ingrese siguiente valor')
-    print('Muy bien hecho','FIGTHING')
+    print('Muy bien hecho')
 print('Comenzamos aquí')
 mensaje()
 mensaje()
 mensaje()
-print('El final es aqui, SAYONARA') #La funcion se ejecuta en la parte donde fue invoca y las veces de esta, hasta que ya no aiga mas, llegando al fin
+print('El final es aqui') #La funcion se ejecuta en la parte donde fue invoca y las veces de esta, hasta que ya no aiga mas, llegando al fin
 
 def saludar():
     print("Buenos dias")

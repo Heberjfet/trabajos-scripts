@@ -1,6 +1,6 @@
 #programa: script-215
 #programador: Heber Jafet Alvaro Ramirez
-#decripcion: matrices
+#decripcion: prueba de metodos
 #fecha: 19/10
 
 cadena1 = 'hola a todos'.title()

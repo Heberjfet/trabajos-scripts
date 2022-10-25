@@ -10,4 +10,3 @@ for i in range (1,n):
         list_mul.append(i)
 print('Cantidad de multiplos',len(list_mul))
 print('Los números multiplo son: ',list_mul)
-#fallas al momento de imprimir (imprime uno por uno). SOLUCION: alinear hasta FOR el PRINT para que solo imprima una vez, y lo que se indica

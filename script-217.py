@@ -1,6 +1,6 @@
 #programa: script-215
 #programador: Heber Jafet Alvaro Ramirez
-#decripcion: matrices
+#decripcion: validacion de usuarios y contraseña
 #fecha: 24/10/22
 
 h = 'usuario'.upper()

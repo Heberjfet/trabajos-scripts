@@ -1,10 +1,7 @@
 #programa: script-215
 #programador: Heber Jafet Alvaro Ramirez
-#decripcion: matrices
-#fecha: 19/10
-
-import string
-
+#decripcion: suma de matrices
+#fecha: 19/10/22
 
 dato = []
 dato2 = []

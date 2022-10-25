@@ -7,10 +7,10 @@ jk=(input('Ingerese número: '))
 jm=[]
 cifras=len(jk)
 inversion=int(jk[cifras::-1])
-print('Ingreso el numero: ', jk, 'Su inverso queda: ', inversion) ##Forma 1
+print('Ingreso el numero: ', jk, 'Su inverso queda: ', inversion)
 
 for v in jk:
     print(v)
     jm.append(v)
 convertor=len(jm)
-print(jm[convertor::-1]) #Forma 2
+print(jm[convertor::-1])

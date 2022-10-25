@@ -21,12 +21,6 @@ if cubo2== n1:
 else:
     print('intente con otro número')
 
-##Se entendia que: elevar los digitos al cubo y sumarlos daba igual a el número ingresado##
-#a=[int(t) for t in str (n1)] ---Para obtener los digitos de un número ingresado
-#Round: Para redondear
-## La imporatancia de saber usar las listas y el uso de FOR
-
-
 
 
 

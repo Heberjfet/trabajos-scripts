@@ -1,6 +1,6 @@
 #programa: script-128
 #programador: Heber Jafet Alvaro Ramirez
-#decripcion:
+#decripcion: los numero pares dentro de un rango inicial y final
 #fecha: 05/10/2022
 
 rI = int(input('ingrese el rango inicial: '))
