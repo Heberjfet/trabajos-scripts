@@ -30,7 +30,7 @@ def contraseña(dato1):
     if conta < 8:
         print('anañade mas caracteres')
     elif num == True:
-        print('añade letras y numeros')
+        print('añade letras y nuemeros')
     elif conpro == True :
         print('añade un numero')
     elif caracter == True:
