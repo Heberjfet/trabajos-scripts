@@ -21,7 +21,7 @@ if cubo2== n1:
 else:
     print('intente con otro número')
 
-
+print(list_cubos)
 
 
 

@@ -8,5 +8,5 @@ rF = int(input('ingrese el rango final: '))
 repo = []
 for i in range (rI,rF + 1):
     repo.append(i)
-    rI % i == 0
-    print('es par',repo)
+    val=rI % i == 0
+    print('es par', val)
