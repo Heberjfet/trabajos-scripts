@@ -18,7 +18,7 @@ def usuario(dato):
         print('el usuario solo puede contener max 12 carecteres')
 
 
-# usuario(input('nombre de usuario: '.title()))
+usuario(input('nombre de usuario: '.title()))
 
 
 def contraseña(dato1):
