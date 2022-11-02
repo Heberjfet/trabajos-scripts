@@ -3,7 +3,7 @@ def work(dato):
   if dato != 'cafe':
     print('descansando')
   else:
-    print('trabajando')
+    print('programando')
 
 
 work(input('ingrese cafe:'))
