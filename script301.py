@@ -18,4 +18,4 @@ if numero < 0:
 elif numero == 0:
   print('El factorial de', numero, 'es 1')
 else:
-  print('')
+  print('el factorial de', numero,'es', factorial(numero))
