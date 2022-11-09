@@ -11,20 +11,11 @@ for i in range(tamaño):
     usuarios[0].append(nombre)
     usuarios[1].append(identificación)
 
-
-
-
 for i in range(tamaño):
     print("Mostrando los datos de la persona", i + 1)
 
     print("Nombre:", usuarios[0][i])
     print("Identificación:", usuarios[1][i])
-
-
-
-
-
-
 
 
 # # mi_tabla= [["juan", "diego"], [21, 22]]
