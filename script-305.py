@@ -1,6 +1,6 @@
 #programador: heber jafet alvaro ramirez
 #script-305
-#descripcion:
+#descripcion: convierte un numero a caracter
 #fecha: 09/11/22
 
 def n_carater(numby):

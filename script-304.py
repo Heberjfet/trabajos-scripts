@@ -1,6 +1,6 @@
 #programador: heber jafet alvaro ramirez
 #script-304
-#descripcion:
+#descripcion: identifica palabaras palindromo
 #fecha: 09/11/22
 def validacion(texto):
     rever = texto[::-1]

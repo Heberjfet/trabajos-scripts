@@ -1,6 +1,6 @@
 #programador: heber jafet alvaro ramirez
 #script-303
-#descripcion:
+#descripcion: funcion de suma y division
 #fecha: 09/11/22
 
 def suma():

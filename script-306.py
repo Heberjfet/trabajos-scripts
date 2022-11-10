@@ -1,14 +1,12 @@
 #programador: heber jafet alvaro ramirez
 #script-306
-#descripcion:
+#descripcion: imprime los numeros en forma de un histograma 
 #fecha: 09/11/22
 
-def histograma():
-    aste ='*'
+def histograma(numeros):
+    aste =''
     # numeros.append(his)
-    numeros = [2,3]
     for i in numeros:
-        numer = aste * i
-    print(numer)
-
-histograma()
+        print(aste.center(i,"*"))
+numeros = [2,3,4,5]
+histograma(numeros)
