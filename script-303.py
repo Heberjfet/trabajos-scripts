@@ -1,7 +1,7 @@
-#
-#
-#
-#
+#programador: heber jafet alvaro ramirez
+#script-303
+#descripcion:
+#fecha: 09/11/22
 
 def suma():
     lis = [1,2,3]
