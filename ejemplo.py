@@ -6,3 +6,5 @@ def work(dato):
         print('programando')
 
 work(input('ingrese cafe:'))
+
+# prueba de worksapce
