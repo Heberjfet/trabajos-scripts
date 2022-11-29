@@ -8,3 +8,5 @@ def work(dato):
 work(input('ingrese cafe:'))
 
 # prueba de worksapce
+# segir haciendo mas pruebas 
+# mejorar mas el uso de esta herramienta
