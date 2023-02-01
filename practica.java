@@ -14,4 +14,3 @@ public class practica {
         edades=dato.nextInt();
         System.out.print("Tu edad es: "+edades);
     }
-}
