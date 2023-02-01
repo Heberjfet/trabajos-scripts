@@ -4,5 +4,5 @@ public class practica3(String [] args){
         System.out.println(v1);
         v1++;
 
-    
+    } 
 }
