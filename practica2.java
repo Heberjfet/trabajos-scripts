@@ -9,4 +9,3 @@ system.out.print('ingresa valor 2: ');
 v2 = edades.nesxInt();
 resultado = v1+v2;
 system.out.print('la suma es :'+resultado);
-}
