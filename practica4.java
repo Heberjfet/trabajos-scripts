@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class practica4 {
     public static void main(String[] args) {
-        //int seee;
-        Scanner seee = new Scanner(System.in); 
+        Scanner scane = new Scanner(System.in);
+        do (scane) { 
         System.out.print("ingresa el numero de la semana: ");
-        int number = seee.nextInt();
+        int number = scane.nextInt();
         switch (number) {
             case 1:
                 System.out.println("lunes");
@@ -23,4 +23,6 @@ public class practica4 {
                 break;
         }
     }
+    while 
+}
 }
