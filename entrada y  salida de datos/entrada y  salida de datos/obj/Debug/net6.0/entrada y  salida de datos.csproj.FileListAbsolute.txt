@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\bin\Debug\net6.0\entrada y  salida de datos.exe
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\bin\Debug\net6.0\entrada y  salida de datos.deps.json
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\bin\Debug\net6.0\entrada y  salida de datos.runtimeconfig.json
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\bin\Debug\net6.0\entrada y  salida de datos.dll
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\bin\Debug\net6.0\entrada y  salida de datos.pdb
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.dll
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\refint\entrada y  salida de datos.dll
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.pdb
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\entrada y  salida de datos.genruntimeconfig.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y  salida de datos\entrada y  salida de datos\obj\Debug\net6.0\ref\entrada y  salida de datos.dll

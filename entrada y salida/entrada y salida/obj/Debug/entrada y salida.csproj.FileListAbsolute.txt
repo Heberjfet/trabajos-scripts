@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\obj\Debug\entrada y salida.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\obj\Debug\entrada y salida.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\obj\Debug\entrada y salida.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\bin\Debug\entrada y salida.exe.config
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\bin\Debug\entrada y salida.exe
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\bin\Debug\entrada y salida.pdb
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\obj\Debug\entrada y salida.exe
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\entrada y salida\entrada y salida\obj\Debug\entrada y salida.pdb

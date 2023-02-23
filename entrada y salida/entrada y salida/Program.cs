@@ -1,12 +1,17 @@
-﻿// heber jafet alvaro ramirez 
-namespace entrada_y_salida_de_datos
-{
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    internal class program
+namespace entrada_y_salida
+{
+    internal class Program
     {
         static void Main(string[] args)
         {
             string nombre, apellido;
+            int edad;
             Console.WriteLine("hola mundo");
             Console.WriteLine("Ingresa tu nombre: ");
             nombre = Console.ReadLine();
@@ -16,8 +21,9 @@ namespace entrada_y_salida_de_datos
             edad = int.Parse(Console.ReadLine());
 
             Console.WriteLine("tu nombre es: " + nombre + "tu apellido es:" + apellido);
-            Console.WriteLine("Tu nombre es:{0}{1}");
+            Console.WriteLine("Tu nombre es:{0}{1}{2}",nombre,apellido,edad);
             Console.WriteLine("tu edad es:" + edad);
         }
     }
+   
 }
