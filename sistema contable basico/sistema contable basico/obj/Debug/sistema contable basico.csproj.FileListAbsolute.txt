@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\bin\Debug\sistema contable basico.exe.config
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\bin\Debug\sistema contable basico.exe
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\bin\Debug\sistema contable basico.pdb
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\obj\Debug\sistema contable basico.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\obj\Debug\sistema contable basico.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\obj\Debug\sistema contable basico.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\obj\Debug\sistema contable basico.exe
+C:\Users\HP\Desktop\trabajos de jafet\visual basic\sistema contable basico\sistema contable basico\obj\Debug\sistema contable basico.pdb

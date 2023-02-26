@@ -63,20 +63,38 @@ namespace condicionales
             }
             else
             {
-                if (num2 > num3 & num2 > num4) ;
+                if (num2 > num3 & num2 > num4)
+                    {
+                   Console.WriteLine("el numero 2 es el mayor");
+                    }
+                else 
                 {
-                    Console.WriteLine("el numero 2 es el mayor");
-                }
-
-                else
-            {
                     if (num3 > num4)
                     {
-                        Console.WriteLine("el numero 3 es el mayor");
+                        Console.WriteLine("numero 3 es mayor");
                     }
-
+                    else
+                    {
+                        Console.WriteLine("numero 4 es mayor");
                     }
                 }
             }
+            if(num1 < num2|| num1 < num3 || num1 < num4)
+            {
+                Console.WriteLine("el numero 1 es el menor");
+            }
+            if (num2 < num3)
+            {
+                Console.WriteLine("el nuumero 2 es el menor");
+            }
+            if(num3<num4)
+            {
+                Console.WriteLine("el numero 3 es el menor");
+            }
+            else
+            {
+                Console.WriteLine("el numero 4 es el menor");
+            }
         }
     }
+}
