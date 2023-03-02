@@ -1,0 +1,8 @@
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.exe.config
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.exe
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.pdb
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csproj.AssemblyReference.cache
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csproj.CoreCompileInputs.cache
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.exe
+C:\Users\heber\OneDrive\Escritorio\trabajos-scripts\visual basic\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.pdb
