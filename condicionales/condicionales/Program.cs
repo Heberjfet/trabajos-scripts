@@ -10,21 +10,21 @@ namespace condicionales
     {
         static void Main(string[] args)
         {
-            int num1, num2, num3, num4;
-            int suma, multi, divicion;
+            float num1, num2, num3, num4;
+            float suma, multi, divicion;
 
             //solicitud de datos
             Console.WriteLine("ingrese el valor de 1: ");
-            num1 = int.Parse(Console.ReadLine());
+            num1 = float.Parse(Console.ReadLine());
 
             Console.WriteLine("ingrese el valor de 2:  ");
-            num2 = int.Parse(Console.ReadLine());
+            num2 = float.Parse(Console.ReadLine());
 
             Console.WriteLine("ingrese el valor de 3: ");
-            num3 = int.Parse(Console.ReadLine());
+            num3 = float.Parse(Console.ReadLine());
 
             Console.WriteLine("ingrese el valor de 4: ");
-            num4 = int.Parse(Console.ReadLine());
+            num4 = float.Parse(Console.ReadLine());
 
             // proceso de datos
             suma = num1 + num2;
